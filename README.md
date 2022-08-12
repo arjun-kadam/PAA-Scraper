@@ -5,7 +5,6 @@
 ## Use Of PAA Scraper
 - This Script is Useful For Web Scraping
 - Useful For Niche Site(Money Site) Owners
-- 
 
 ## Dependencies
 ---
