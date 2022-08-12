@@ -1,4 +1,6 @@
 # PAA(People Also Ask) Scraper
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 - This Script can Scrap all questions and Answers From Google Search
 - This Script is Developed by BlackHatWorld Member 
 
